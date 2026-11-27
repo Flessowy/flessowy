@@ -1,41 +1,40 @@
-![Flessowy Preview](image.jpg)
+<div align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</div>
 
-# Flessowy
+<br>
 
-**Flessowy**.
+<h2>Обo мне</h2>
 
-Проект активно развивается и поддерживается разработчиком **Командой Jarvis**.
+Живу в России, Изучаю C++ и Python. Делаю Telegram-ботов и веб-сервисы, разворачиваю проекты на Linux и настраиваю сеть.
 
----
+В программировании пока набираюсь опыта. Учусь сам и пользуюсь нейросетями, чтобы разбирать незнакомый код и искать причины ошибок. То, что узнаю, пробую на своих проектах.
 
-## Автор и владелец
+<br>
 
-**flessowy** — Full-stack разработчик и основатель проекта.
+<h2>Flessowy</h2>
 
-- **Telegram:** [@jarvis_free](https://t.me/jarvis_free)
-- **Проект в Telegram:** [Jarvis Free](https://t.me/jarvis_free)
+> Мой проект. На сайте можно купить подписку.
 
-> Подписывайся на канал, чтобы следить за обновлениями, узнавать о новых фичах и получать поддержку.
 
----
+[Сайт проекта](https://jarvispro.shop) • [Бот](https://t.me/jarvis_free) • [Кабинет](https://jarvispro.shop/cabinet)
 
-## Основные возможности
+<br>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lightning.svg" width="16" height="16" alt="lightning"> **Высокая скорость:** [Опиши, почему проект быстрый, если это так]
+<h2>Стек</h2>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/shieldcheck.svg" width="16" height="16" alt="shield"> **Надежность:** [Опиши систему безопасности или стабильность]
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Xray-FF0000?style=for-the-badge&logo=xray&logoColor=white" alt="Xray">
+</p>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/materialdesign.svg" width="16" height="16" alt="ui"> **Удобный интерфейс:** [Если есть UI, опиши его]
+<br>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/settings.svg" width="16" height="16" alt="settings"> **Гибкая настройка:** [Возможности кастомизации]
-
----
-
-## Технологический стек
-
-Проект написан с использованием современных технологий:
-
-- **Язык:** [Python / JavaScript / C++ / др.]
-- **Фреймворк:** [Django / React / Aiogram / др.]
-- **База данных:** [PostgreSQL / SQLite / MongoDB]
-- **Инфраструктура:** [Docker / Nginx]
+<div align="center">
+  <a href="https://t.me/jarvis_free">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
